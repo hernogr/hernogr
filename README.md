@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Hernán 👋
 
-<!--
-**hernogr/hernogr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geólogo apasionado por la integración de datos y programación para la resolución de problemas en geociencias.
 
-Here are some ideas to get you started:
+### 🔭 Proyectos actuales en GitHub:
+- **Análisis de Imágenes EMIT:** Aplicación de Machine Learning para minería en San Juan, trabajando con datos hiperespectrales de la NASA.
+- **Gestión de Socios (AGA):** Desarrollo de una interfaz gráfica (Tkinter) vinculada a bases de datos SQLite para la Asociación Geológica Argentina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Herramientas:
+- **Lenguajes:** Python (Pandas, Matplotlib, Tkinter).
+- **Datos:** SQL (SQLite).
+- **Dominio:** Geología, Sensores Remotos y GIS.
+
+---
+### 🔭 Investigación Actual
+* **Proyecto Doctoral:** Análisis multisensorial y multitemporal de la emisión térmica de volcanes activos utilizando datos satelitales.
+---
